@@ -1,7 +1,7 @@
 # Project title: The Effect of Remote Learning on Undergraduate Student Engagement
-Project type: Mixed-methods academic research study
-Project duration: January 2026
-Project owner: Department of Education
+Project type: Mixed-methods academic research study  
+Project duration: January 2026  
+Project owner: Department of Education  
 Research team: Principal investigator, student researchers, data analyst, and academic supervisor
 
 ## Purpose of the documentation

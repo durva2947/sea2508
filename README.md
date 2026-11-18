@@ -6,7 +6,7 @@ Research project documentation is the **organise record of the decisions, method
 
 Effective documentation promotes *transparency because it allows readers and other researchers to understand the choices that shaped the study*. A complete record can show which population was studied, how participants or observations were selected, what instruments were used, and how the data were analyzed. It can also identify decisions that may influence the interpretation of the results, such as missing observations, changes to the original research plan, or adjustments to statistical procedures. Documentation therefore helps distinguish conclusions supported by the evidence from claims that require further investigation. 
 
-A research project’s documentation should describe the study population, sampling procedures, data sources, fieldwork protocols, data-collection instruments, and analytical methods. It may also ***include power calculations, pre-analysis plans, survey questions, search terms, database queries, definitions of constructed variables, quality-assurance procedures, and information*** about incomplete data. Together, these materials should enable a reader to understand how the information was gathered, what it represents, and how it relates to the reported findings.   Inline code formatting `print("hello world")` .
+A research project’s documentation should describe the study population, sampling procedures, data sources, fieldwork protocols, data-collection instruments, and analytical methods. It may also ***include power calculations, pre-analysis plans, survey questions, search terms, database queries, definitions of constructed variables, quality-assurance procedures, and information*** about incomplete data. Together, these materials should enable a reader to understand how the information was gathered, what it represents, and how it relates to the reported findings.     Inline code formatting `print("hello world")` .
 
 1. durva
 2. naik
@@ -22,6 +22,7 @@ A research project’s documentation should describe the study population, sampl
 | shreya | maths |
 
 hyperlink [Google](https://www.google.com)
+
 image ![beautiful scenery](https://images.pexels.com/photos/236047/pexels-photo-236047.jpeg?cs=srgb&dl=clouds-cloudy-countryside-236047.jpg&fm=jpg)
 
 ```python
